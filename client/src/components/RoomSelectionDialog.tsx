@@ -180,7 +180,7 @@ export default function RoomSelectionDialog() {
             </CustomRoomWrapper>
           ) : (
             <>
-              <Title>The Co-x3 Family Metaverse</Title>
+              <Title>Bem Vindo ao Metaverso Simbiose Digital</Title>
               <Content>
                 <video autoPlay muted playsInline loop width="75%">
                   <source src={animatedLogo} type="video/mp4"
